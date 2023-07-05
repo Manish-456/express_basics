@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name" : "Manish Tamang",
+        "company" : "manish.co",
+        "website" : "https://typique.onrender.com"
+    },
+    {
+        "id" : 2,
+        "name" : "Saagar Tamang",
+        "company" : "Saagar.co",
+        "website" : "https://saagar.onrender.com"
+    }
+]
