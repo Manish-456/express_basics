@@ -1,7 +1,6 @@
 const allowedOrigins = [
   "https://yoursite.com",
-  "https://www.yoursite.com",
-  "https://www.google.com",
+  "https://www.yoursite.com"
 ];
 
 const corsOptions = {
